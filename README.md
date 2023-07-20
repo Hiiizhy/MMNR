@@ -25,7 +25,7 @@ $ python main.py --dataset ValuedShopper --lr 0.01 l2 0.01 --asp 13 --ctx 3 --de
 $ python main.py --dataset RetailRocket --lr 0.01 l2 0.01 --asp 15 --ctx 3 --decay 0.6 --h1 5 --h2 5 --batch_size 100 --dim 32 --isTrain 0
 ```
 
-## Reference
+## Citation
 
 ```
 @inproceedings{DBLP:conf/sigir/DengLGLZL23,
